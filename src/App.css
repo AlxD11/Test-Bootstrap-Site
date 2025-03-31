@@ -3,10 +3,12 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+
+  --whats-the-most-god-awful-color-I-can-create: hsl(82, 52%, 53%);
 }
 
 .logo {
-  height: 6em;
+  height: 256px;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
@@ -39,4 +41,15 @@
 
 .read-the-docs {
   color: #888;
+}
+
+body
+{
+  background: cornsilk;
+}
+
+p > a
+{
+  color: var(--whats-the-most-god-awful-color-I-can-create);
+  text-decoration: underline;
 }
