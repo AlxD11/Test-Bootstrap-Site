@@ -12,7 +12,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Boostratp Assignment</h1>
+      <h1>Alex's Boostratp Assignment</h1>
       <div className="card">
         <p>I'd sooner shave my legs with a potato peeler than do another serious React project.</p>
         <p><a href="https://technical-writing-portfolio-alxd11-13f0f31fb68355b6475e4bb0276e.gitlab.io/">Raw HTML and CSS FTW.</a></p>
